@@ -1,0 +1,111 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <style>
+        /* width */
+        ::-webkit-scrollbar {
+            width: 10px;
+        }
+
+        /* Track */
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+
+        /* Handle */
+        ::-webkit-scrollbar-thumb {
+            background: #888;
+        }
+
+            /* Handle on hover */
+            ::-webkit-scrollbar-thumb:hover {
+                background: #555;
+            }
+    </style>
+</head>
+<body>
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @*<a class="navbar-brand" href="#"><img src="~/image/nbalogo.webp" style="width:40px;height:40px"></a>*@
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="/Home/Index"><img src="~/image/nbalogo.webp" class="img-circle" style="width:40px;height:40px"></a></li>
+                    <li><a href="/Home/StatLeaders">Stat Leaders</a></li>
+                    <li><a href="/Team/Index">Teams</a></li>
+                    <li><a href="/Product/Store">Store</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="/Account/SignIn"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid text-center overflow-hidden">
+        <div class="row content">
+            <div class="col-sm-2 sidenav" style="background-color:white; height:900px; overflow-y: scroll;">
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Home/AtlantaInfo"><img src="~/image/atlantalogo.png" class="img-circle" style="width:30px;height:30px; " /> Atlanta Hawks</a></p>
+
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Boston/BostonInfo"><img src="~/image/basketball-boston-celtics-logo-nba-hd-wallpaper-preview.jpg" class="img-circle" style="width:30px;height:30px; " /> Boston Celtics</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Brooklyn/BrooklynInfo"><img src="~/image/842b4607fd503508899d7e15b062a4d5.jpg" class="img-circle" style="width:30px;height:30px; " /> Brooklyn Nets</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Hornets/HornetsInfo"><img src="~/image/Charlotte-Hornets-Emblem.jpg" class="img-circle" style="width:30px;height:30px; " /> Charlotte Hornets</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Chicago/ChicagoInfo"><img src="~/image/indir.png" class="img-circle" style="width:30px;height:30px; " /> Chicago Bulls</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Cavaliers/CavaliersInfo"><img src="~/image/images.png" class="img-circle" style="width:30px;height:30px; " /> Cleveland Cavaliers</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Mavericks/MavericksInfo"><img src="~/image/indir.jpg" class="img-circle" style="width:30px;height:30px; " /> Dallas Mavericks</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Nuggets/NuggetsInfo"><img src="~/image/indir (1).jpg" class="img-circle" style="width:30px;height:30px; " /> Denver Nuggets</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Pistons/PistonsInfo"><img src="~/image/Detroit Pistons.png" class="img-circle" style="width:30px;height:30px; " /> Detroit Pistons</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Warriors/WarriorsInfo"><img src="~/image/Golden State Warriors.png" class="img-circle" style="width:30px;height:30px; " /> Golden State Warriors</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Rockets/RocketsInfo"><img src="~/image/Houston Rockets.jpg" class="img-circle" style="width:30px;height:30px; " /> Houston Rockets</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Pacers/PacersInfo"><img src="~/image/Indiana Pacers.png" class="img-circle" style="width:30px;height:30px; " /> Indiana Pacers</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Clippers/ClippersInfo"><img src="~/image/Los Angeles Clippers.png" class="img-circle" style="width:30px;height:30px; " /> Los Angeles Clippers</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Lakers/LakersInfo"><img src="~/image/Los Angeles Lakers.png" class="img-circle" style="width:30px;height:30px; " /> Los Angeles Lakers</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Grizzlies/GrizzliesInfo"><img src="~/image/Memphis Grizzlies.jpg" class="img-circle" style="width:30px;height:30px; " /> Memphis Grizzlies</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Heat/HeatInfo"><img src="~/image/Miami Heat.png" class="img-circle" style="width:30px;height:30px; " /> Miami Heat</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Bucks/BucksInfo"><img src="~/image/Milwaukee Bucks.jpg" class="img-circle" style="width:30px;height:30px; " /> Miwaukee Bucks</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Timberwolves/TimberwolvesInfo"><img src="~/image/Minnesota Timberwolves.jpg" class="img-circle" style="width:30px;height:30px; " /> Minnesota Timberwolves</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Pelicans/PelicansInfo"><img src="~/image/New Orleans Pelicans.jpg" class="img-circle" style="width:30px;height:30px; " /> New Orleans Pelicans</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Knicks/KnicksInfo"><img src="~/image/New York Knicks.png" class="img-circle" style="width:30px;height:30px; " /> New York Knicks</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Thunder/ThunderInfo"><img src="~/image/Oklahoma City Thunder.jpg" class="img-circle" style="width:30px;height:30px; " /> Oklahoma City Thunder</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Magic/MagicInfo"><img src="~/image/Orlando Magic.png" class="img-circle" style="width:30px;height:30px; " /> Orlando Magic</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/_76ers/_76ersInfo"><img src="~/image/Philadelphia 76ers.png" class="img-circle" style="width:30px;height:30px; " /> Philadelphia 76ers</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Suns/SunsInfo"><img src="~/image/Phoenix Suns.jpg" class="img-circle" style="width:30px;height:30px; " /> Phoenix Suns</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Blazers/BlazersInfo"><img src="~/image/Portland Trail Blazers.jpg" class="img-circle" style="width:30px;height:30px; " /> Portland Trail Blazers</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Kings/KingsInfo"><img src="~/image/Sacramento Kings.png" class="img-circle" style="width:30px;height:30px; " /> Sacramento Kings</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Spurs/SpursInfo"><img src="~/image/San Antonio Spurs.jpg" class="img-circle" style="width:30px;height:30px; " /> San Antonio Spurs</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Raptors/RaptorsInfo"><img src="~/image/Toronto Raptors.jpg" class="img-circle" style="width:30px;height:30px; " /> Toronto Raptors</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Jazz/JazzInfo"><img src="~/image/Utah Jazz.jpg" class="img-circle" style="width:30px;height:30px; " /> Utah Jazz</a></p>
+                <p><a class="btn btn-block" style="background-color:gray; color:aliceblue" href="/Wizards/WizardsInfo"><img src="~/image/Washington Wizards.png" class="img-circle" style="width:30px;height:30px; " /> Washington Wizards</a></p>
+
+
+            </div>
+            <div class="col-sm-10 text-left">
+
+                <div>@RenderBody()</div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <footer class="container-fluid text-center">
+        <p>NBA &copy;</p>
+    </footer>
+
+</body>
+</html>
+

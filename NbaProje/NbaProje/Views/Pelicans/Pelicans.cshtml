@@ -1,0 +1,246 @@
+﻿@model IEnumerable<NbaProje.Models.Players>
+
+@{
+    ViewData["Title"] = "Pelicans";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    @*<script src="~/js/sort.js"></script>*@
+</head>
+<body>
+
+    <div>
+        <h3>New Orleans Pelicans</h3>
+        <ul class="nav nav-tabs">
+            <li><a href="/Knicks/KnicksInfo">Team Information</a></li>
+            <li class="active"><a href="/Knicks/Knicks">Players</a></li>
+            <li><a href="/Pelicans/Team">Team's Stats</a></li>
+        </ul>
+        <br>
+
+    </div>
+
+</body>
+</html>
+<p>
+    <a class="btn btn-info" asp-action="Create">Create New</a>
+</p>
+<br />
+<input class="form-control" id="myInput" type="text" placeholder="Search..">
+
+<table class="table table-bordered sortable">
+    <thead>
+        <tr>
+
+            <th data-toggle="tooltip" title="Jersey Number">
+                @Html.DisplayNameFor(model => model.PlayerJerseyNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PlayerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Position)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Games)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GamesStarted)
+            </th>
+            <th data-toggle="tooltip" title="Minutes Played">
+                @Html.DisplayNameFor(model => model.MP)
+            </th>
+            <th data-toggle="tooltip" title="Field Goal Made">
+                @Html.DisplayNameFor(model => model.FG)
+            </th>
+            <th data-toggle="tooltip" title="Field Goal Attempt">
+                @Html.DisplayNameFor(model => model.FGA)
+            </th>
+            <th data-toggle="tooltip" title="Field Goal Percentage">
+                @Html.DisplayNameFor(model => model.FGP)
+            </th>
+            <th data-toggle="tooltip" title="Three Point Made">
+                @Html.DisplayNameFor(model => model.TP)
+            </th>
+            <th data-toggle="tooltip" title="Three Point Attempt">
+                @Html.DisplayNameFor(model => model.TPA)
+            </th>
+            <th data-toggle="tooltip" title="Three Point Percentage">
+                @Html.DisplayNameFor(model => model.TPP)
+            </th>
+            <th data-toggle="tooltip" title="Two Point Made">
+                @Html.DisplayNameFor(model => model.TwP)
+            </th>
+            <th data-toggle="tooltip" title="Two Point Attempt">
+                @Html.DisplayNameFor(model => model.TwPA)
+            </th>
+            <th data-toggle="tooltip" title="Two Point Percentage">
+                @Html.DisplayNameFor(model => model.TwPP)
+            </th>
+            <th data-toggle="tooltip" title="Effective Field Goal Percentage">
+                @Html.DisplayNameFor(model => model.eFG)
+            </th>
+            <th data-toggle="tooltip" title="Free Throw Made">
+                @Html.DisplayNameFor(model => model.FT)
+            </th>
+            <th data-toggle="tooltip" title="Free Throw Attempt">
+                @Html.DisplayNameFor(model => model.FTA)
+            </th>
+            <th data-toggle="tooltip" title="Free Throw Percentage">
+                @Html.DisplayNameFor(model => model.FTP)
+            </th>
+            <th data-toggle="tooltip" title="Offensive Rebound">
+                @Html.DisplayNameFor(model => model.ORB)
+            </th>
+            <th data-toggle="tooltip" title="Defensive Rebound">
+                @Html.DisplayNameFor(model => model.DRB)
+            </th>
+            <th data-toggle="tooltip" title="Total Rebound">
+                @Html.DisplayNameFor(model => model.TRB)
+            </th>
+            <th data-toggle="tooltip" title="Assist">
+                @Html.DisplayNameFor(model => model.AST)
+            </th>
+            <th data-toggle="tooltip" title="Steal">
+                @Html.DisplayNameFor(model => model.STL)
+            </th>
+            <th data-toggle="tooltip" title="Blocks">
+                @Html.DisplayNameFor(model => model.BLK)
+            </th>
+            <th data-toggle="tooltip" title="Turnovers">
+                @Html.DisplayNameFor(model => model.TOV)
+            </th>
+            <th data-toggle="tooltip" title="Personel Foul">
+                @Html.DisplayNameFor(model => model.PF)
+            </th>
+            <th data-toggle="tooltip" title="Points">
+                @Html.DisplayNameFor(model => model.PTS)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="myTable">
+        @foreach (var item in Model)
+        {
+            @if (item.Teams.TeamsID == 19)
+            {
+                <tr>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PlayerJerseyNo)
+                    </td>
+                    <td>
+                        <a asp-action="Detay" asp-route-id="@item.PlayersID">
+                            @Html.DisplayFor(modelItem => item.PlayerName)
+                        </a>
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Position)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Games)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.GamesStarted)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MP)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FG)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FGA)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FGP)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TP)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TPA)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TPP)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TwP)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TwPA)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TwPP)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.eFG)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FT)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FTA)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FTP)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ORB)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DRB)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TRB)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AST)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.STL)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BLK)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TOV)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PF)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PTS)
+                    </td>
+
+                    <td>
+
+                        <a asp-action="Guncelle" asp-route-id="@item.PlayersID">Update</a>
+                        <a asp-action="Sil" asp-route-id="@item.PlayersID">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<script src="~/js/sort.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#myInput").on("keyup", function () {
+            var value = $(this).val().toLowerCase();
+            $("#myTable tr").filter(function () {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+        });
+    });
+</script>

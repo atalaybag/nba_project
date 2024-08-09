@@ -1,0 +1,141 @@
+C:\Users\sem\source\repos\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\sem\source\repos\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\source\repos\Nba\EntitiyLayer\bin\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\sem\source\repos\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\source\repos\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\sem\source\repos\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sem\source\repos\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\sem\source\repos\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\sem\source\repos\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\sem\source\repos\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\source\repos\Nba\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\sem\source\repos\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\Monster\Desktop\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.json
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.dev.json
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.genruntimeconfig.cache
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.json
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.genruntimeconfig.cache
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.json
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.dev.json
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.genruntimeconfig.cache
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.json
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.dev.json
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.genruntimeconfig.cache
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.json
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.genruntimeconfig.cache
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.json
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.dev.json
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.genruntimeconfig.cache
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.json
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.genruntimeconfig.cache

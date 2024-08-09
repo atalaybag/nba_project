@@ -1,0 +1,128 @@
+﻿@model IEnumerable<NbaProje.Models.Teams>
+
+@{
+    ViewData["Title"] = "East";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    @*<script src="~/js/sort.js"></script>*@
+</head>
+<body>
+
+    <div>
+
+        <ul class="nav nav-tabs">
+            <li><a href="/Team/Index">Standings</a></li>
+            <li class="active"><a href="/Team/East">East</a></li>
+            <li><a href="/Team/West">West</a></li>
+        </ul>
+        <br>
+    </div>
+
+</body>
+</html>
+
+<br />
+<input class="form-control" id="myInput" type="text" placeholder="Search..">
+<table class="table table-bordered sortable">
+    <thead>
+        <tr>
+
+            <th>
+                @Html.DisplayNameFor(model => model.TeamName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TeamCity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TeamArena)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ChCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Win)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lose)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WinLosePercentage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PointsPerGame)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OpponentPointsPerGame)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Conference)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="myTable">
+        @foreach (var item in Model)
+        {
+            @if (item.Conference == "East")
+            {
+
+
+                <tr>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TeamName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TeamCity)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TeamArena)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ChCount)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Win)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Lose)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.WinLosePercentage)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PointsPerGame)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.OpponentPointsPerGame)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Conference)
+                    </td>
+
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<script src="~/js/sort.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#myInput").on("keyup", function () {
+            var value = $(this).val().toLowerCase();
+            $("#myTable tr").filter(function () {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+        });
+    });
+</script>

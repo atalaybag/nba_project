@@ -1,0 +1,200 @@
+C:\Users\sem\source\repos\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\sem\source\repos\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\sem\source\repos\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\sem\source\repos\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\sem\source\repos\Nba\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\sem\source\repos\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\sem\source\repos\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\sem\source\repos\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\source\repos\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\sem\source\repos\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\source\repos\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\sem\source\repos\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sem\source\repos\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\sem\source\repos\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\sem\source\repos\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sem\source\repos\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\sem\source\repos\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\sem\source\repos\Nba\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\sem\source\repos\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\sem\source\repos\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\sem\Desktop\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\sem\Desktop\NbaGuncelRepo\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\sem\Desktop\NbaGuncelRepo29.03.12\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Monster\Desktop\NbaGuncel1.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Firat Cicekoglu\Desktop\NbaGuncel5.04\NbaGuncel1.04\NbaGuncelRepo29.03.12\Nba2303\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel13.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\sem\Desktop\Nbagüncel13.4.latest\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Monster\Desktop\Nbagüncel14.4\Nbagüncel14.4\Nbagüncel13.4\Nbagüncel\Nbagüncel\Nba\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
